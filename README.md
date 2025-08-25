@@ -1,6 +1,10 @@
+<img src="https://socialify.git.ci/SineMag/Task-6.2-OOP-Dev-Data-Card-Generator/image?language=1&owner=1&name=1&stargazers=1&theme=Light" alt="Task-6.2-OOP-Dev-Data-Card-Generator" width="640" height="320" />
+
+
 # OOP Dev Data Card Generator
 ---
-### Using Object-Oriented Programming (OOP) in pure JavaScript to read developer data from a JSON file and dynamically displaying them on a webpage as developer cards with all the details from the .json file
+
+### Used Object-Oriented Programming (OOP) in pure JavaScript to read developer data from a JSON file and dynamically displaying them on a webpage as developer cards with all the details from the .json file
 
 
 ## 🚀 Installation
@@ -8,14 +12,14 @@
 ### Installing npm Packages
 
 To update to the latest version of **npm**, run:  
- (```bash)
+ ```bash```
 
-npm install -g npm
+```npm install -g npm```
 
 ### Check if Node.js and npm are installed, and view their versions:
 
-node -v
-npm -v
+```node -v```
+```npm -v```
 
 
 ### Using a Node Version Manager
@@ -40,22 +44,22 @@ Other systems: either use NodeSource (preferred) or download from the Node.js si
 
 ### 🛠️ Scripts Available
 ---
-* npm start → Runs the app in development mode
+* ```npm start``` → Runs the app in development mode
 
-* npm run build → Builds the app for production
+* ```npm run build``` → Builds the app for production
 
-* npm test → Runs test cases (if available)
+* ```npm test``` → Runs test cases (if available)
 
 ### 📦 Requirements
 ---
-* Node.js >= 14
+* ```node.js``` >= 14
 
-* npm >= 6
+* ```npm``` >= 6
 
 
-# 📂 Repository Structure
+### 📂 Repository Structure
 ---
-
+```
 project-root/
 │
 ├─ src/                  # Source code (JavaScript, CSS, etc.)
